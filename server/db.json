@@ -1,0 +1,324 @@
+{
+  "users": [
+    {
+      "fname": "Ravi",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "gender": "male",
+      "roles": [
+        "UI Developer"
+      ],
+      "id": 20
+    },
+    {
+      "fname": "Ravi",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "gender": "male",
+      "roles": [
+        "UI Developer",
+        "Front End\n                Developer "
+      ],
+      "id": 21
+    },
+    {
+      "fname": "Ravi",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "gender": "male",
+      "roles": [
+        "UI Developer",
+        "Front End\n                Developer "
+      ],
+      "id": 22
+    },
+    {
+      "fname": "Ravi",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "gender": "male",
+      "roles": [
+        "UI Developer",
+        "Front End\n                Developer "
+      ],
+      "id": 23
+    },
+    {
+      "name": "raviohoi",
+      "email": "vsdhc@jcjk",
+      "userName": "bdjcb",
+      "password": "bkjbjk",
+      "company": "",
+      "country": "1",
+      "time": "1",
+      "id": 24
+    },
+    {
+      "name": "raviohoi",
+      "email": "vsdhc@jcjk",
+      "userName": "bdjcb",
+      "password": "bkjbjk",
+      "company": "",
+      "country": "1",
+      "time": "1",
+      "id": 25
+    },
+    {
+      "name": "raviohoi",
+      "email": "vsdhc@jcjk",
+      "userName": "bdjcb",
+      "password": "bkjbjk",
+      "company": "",
+      "country": "1",
+      "time": "1",
+      "id": 26
+    },
+    {
+      "name": "raviohoi",
+      "email": "vsdhc@jcjk",
+      "userName": "bdjcb",
+      "password": "bkjbjk",
+      "company": "",
+      "country": "1",
+      "time": "1",
+      "id": 27
+    },
+    {
+      "fname": "ravi",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "State": "",
+      "gender": "",
+      "course": [],
+      "state": "AP",
+      "id": 28
+    },
+    {
+      "fname": "ravi",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "State": "",
+      "gender": "Male",
+      "course": [
+        "HTML"
+      ],
+      "state": "AP",
+      "id": 29
+    },
+    {
+      "name": "Rsvi",
+      "email": "Teja",
+      "userName": "tfytcsdgvgh",
+      "password": "BHJHBHJBHJb",
+      "company": "Sunline",
+      "country": "1",
+      "time": "1",
+      "id": 30
+    },
+    {
+      "fname": "Ravi",
+      "lname": "Teja",
+      "email": "raviteja.rt84@gmail.cpm",
+      "State": "",
+      "gender": "Male",
+      "course": [
+        "",
+        "HTML",
+        "CSS"
+      ],
+      "id": 31,
+      "state": "Karnataka"
+    },
+    {
+      "fname": "Raviteja",
+      "lname": "Vallepu",
+      "email": "raviteja.rt84@gmail.com",
+      "State": "",
+      "gender": "FeMale",
+      "course": [
+        "Angular",
+        "HTML"
+      ],
+      "id": 32,
+      "state": "AP"
+    },
+    {
+      "fname": "Raviteja",
+      "lname": "",
+      "email": "",
+      "State": "",
+      "gender": "",
+      "course": [],
+      "id": 33,
+      "state": "AP"
+    },
+    {
+      "fname": "Raviteja",
+      "lname": "Vallepu",
+      "email": "raviteja.rt84@gmail.com",
+      "State": "",
+      "gender": "Male",
+      "course": [
+        "Angular",
+        "HTML",
+        "CSS"
+      ],
+      "id": 34,
+      "state": "AP"
+    },
+    {
+      "fname": "Ravi nnnn",
+      "lname": "Teja",
+      "email": "ravi@gmail.com",
+      "State": "",
+      "gender": "Male",
+      "course": [
+        "Angular"
+      ],
+      "id": 35,
+      "state": "Karnataka"
+    }
+  ],
+  "NewUser": [
+    {
+      "firstname": "Ravibfghfg",
+      "lastname": "Teja",
+      "email": "ravi",
+      "id": 1
+    },
+    {
+      "firstname": "Ravi",
+      "lastname": "Teja",
+      "email": "ravi@gmail",
+      "id": 3
+    },
+    {
+      "firstname": "Ravi",
+      "lastname": "",
+      "email": "ravi@gmail",
+      "id": 6
+    },
+    {
+      "firstname": "Ravi",
+      "lastname": "",
+      "email": "ravi@gmail",
+      "id": 7
+    },
+    {
+      "firstname": "Ravi",
+      "lastname": "Teaja casmbc jb",
+      "email": "ravi@gmail",
+      "id": 9
+    },
+    {
+      "firstname": "Teja",
+      "lastname": "Ravi",
+      "email": "raviteja@gmail.cpom",
+      "id": 10
+    }
+  ],
+  "AnotherUser": [
+    {
+      "fname": "",
+      "lname": "",
+      "id": 1
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "id": 2
+    },
+    {
+      "fname": "tdfthcgh",
+      "lname": "hgfhvg",
+      "id": 3
+    },
+    {
+      "fname": null,
+      "lname": null,
+      "id": 4
+    }
+  ],
+"aboutObj":[
+	{
+    "fname":"Ravi",
+    "lname":"Teja",
+    "house":"DRR PG",
+   "street":"CKB Layout, Marthahalli, Bangalore",
+    "zip":"560037",
+      "phone":"9052679769",
+      "email":"ravitejav77492@gmail.com",
+      "aboutmsg":"I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition."
+    }
+
+],
+
+"ExperienceObj":[
+	{
+    "Fresher":"Experience",
+    "Designation":"Senior Web Developer",
+    "company":"Intelitec Solutions",
+    "msg":"Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.",
+    "period":"September 2019 - Present",
+    " Designation2":"Web Developer",
+    "company2":"Intelitec Solutions",
+    "msg2":"Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+    " period2":"December 2017 - July 2019",
+    "Designation3":"Junior Web Designer",
+    "company3":"Shout! Media Productions",
+    "msg3":"Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.",
+    "period3":"July 2016 - November 2017",
+    "Designation4":"Web Design Intern",
+    "company4":"Shout! Media Productions",
+    "msg4":"Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.",
+    "period4":"September 2015 - June 2016"
+  }
+],
+"EducationObj":[
+  {
+    "Detailsabout":"Education",
+    "university":"University of Colorado Boulder",
+    "course":"Bachelor of Science",
+    "Branch":"Computer Science - Web Development Track",
+    "gpa":"GPA: 3.23",
+    "period":"August 2006 - May 2010",
+      "university2":"James Buchanan High School",
+      "course2":"Technology Magnet Program",
+      "gpa2":"GPA: 3.56",
+      "period2":"August 2002 - May 2006"
+  }
+],
+"SkillsObj":[
+  {
+    "detailsabout":"Skills",
+  "details":"Programming Languages & Tools",
+  "heading":"Workflow",
+  "list1":"Mobile-First, Responsive Design",
+  "list2":" Cross Browser Testing & Debugging",
+  "list3":" Cross Functional Teams",
+  "list4":" Agile Development & Scrum"
+}
+],
+"InterestsObj":[
+  {
+  "Heading":"Interests",
+  "p1":"Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
+  "p2":"When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+}
+],
+
+"AwardsObj":[
+  {
+    "li0":"Awards & Certifications",
+  "li1":" Google Analytics Certified Developer",
+  "li2":" Mobile Web Specialist - Google Certification",
+  "li3":" Place - University of Colorado Boulder - Emerging Tech Competition 2009",
+  "li4":"Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)",
+  "li5":"Place - University of Colorado Boulder - Emerging Tech Competition 2008",
+  "li6":" Place - James Buchanan High School - Hackathon 2006",
+  "li7":" Place - James Buchanan High School - Hackathon 2005"
+}
+]
+
+
+}

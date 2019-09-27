@@ -1,0 +1,25 @@
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about" *ngIf="aboutdetails" >
+    <div class="w-100">
+      <h1 class="mb-0">{{aboutdetails.fname}}
+        <span class="text-primary">{{aboutdetails.lname}}</span>
+      </h1>
+      <div class="subheading mb-5">{{aboutdetails.house}} · {{aboutdetails.street}}, {{aboutdetails.zip}}· {{aboutdetails.phone}} ·
+        <a href="mailto:name@email.com">{{aboutdetails.email}}</a>
+      </div>
+      <p class="lead mb-5">{{aboutdetails.aboutmsg}}</p>
+      <div class="social-icons">
+        <a href="#">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a href="#">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </div>
+    </div>
+  </section>

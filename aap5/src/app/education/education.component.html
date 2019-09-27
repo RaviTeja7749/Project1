@@ -1,0 +1,29 @@
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education" *ngIf="educationobj">
+    <div class="w-100">
+      <h2 class="mb-5">{{educationobj.Detailsabout}}</h2>
+
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="resume-content">
+          <h3 class="mb-0">{{educationobj.university}}</h3>
+          <div class="subheading mb-3">{{educationobj.course}}</div>
+          <div>{{educationobj.Branch}}</div>
+          <p>{{educationobj.gpa}}</p>
+        </div>
+        <div class="resume-date text-md-right">
+          <span class="text-primary">{{educationobj.period}}</span>
+        </div>
+      </div>
+
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+        <div class="resume-content">
+          <h3 class="mb-0">{{educationobj.university2}}</h3>
+          <div class="subheading mb-3">{{educationobj.course2}}</div>
+          <p>{{educationobj.gpa2}}</p>
+        </div>
+        <div class="resume-date text-md-right">
+          <span class="text-primary">{{educationobj.period2}}</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
